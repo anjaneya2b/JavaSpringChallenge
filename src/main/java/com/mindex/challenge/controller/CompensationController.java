@@ -11,7 +11,7 @@ import java.util.List;
 
 @RestController
 public class CompensationController {
-    private static final Logger LOG = LoggerFactory.getLogger(EmployeeController.class);
+    private static final Logger LOG = LoggerFactory.getLogger(CompensationController.class);
 
     @Autowired
     private CompensationService compensationService;
