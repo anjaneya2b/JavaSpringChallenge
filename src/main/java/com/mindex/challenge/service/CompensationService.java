@@ -1,4 +1,3 @@
-
 package com.mindex.challenge.service;
 
 import com.mindex.challenge.data.Compensation;

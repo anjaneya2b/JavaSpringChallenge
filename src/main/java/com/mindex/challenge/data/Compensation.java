@@ -5,7 +5,6 @@ import org.springframework.data.annotation.Transient;
 
 import java.text.ParseException;
 import java.text.SimpleDateFormat;
-import java.util.Date;
 
 public class Compensation {
     @Id

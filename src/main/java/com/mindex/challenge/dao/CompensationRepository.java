@@ -1,4 +1,3 @@
-
 package com.mindex.challenge.dao;
 
 import com.mindex.challenge.data.Compensation;
